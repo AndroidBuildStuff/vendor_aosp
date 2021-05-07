@@ -21,8 +21,8 @@ endif
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
 
 # PixelPlusUI Props
-PPUI_BASE_VERSION = 3.4
-PPUI_CODENAME := Onyx
+PPUI_BASE_VERSION = 3.5
+PPUI_CODENAME := Jasper
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
 CUSTOM_DATE_MONTH := $(shell date -u +%m)
