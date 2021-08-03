@@ -22,8 +22,8 @@ endif
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
 
 # PixelPlusUI Props
-PPUI_BASE_VERSION = 3.7
-PPUI_CODENAME := Ragnarok
+PPUI_BASE_VERSION = 3.8
+PPUI_CODENAME := Hikaru
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
 CUSTOM_DATE_MONTH := $(shell date -u +%m)
